@@ -30,6 +30,28 @@ h1 {
 	margin: 40px;
 	font-size: 24px;
 }
+.mshobeli {
+	position: relative;
+}
+h3 {
+	position: absolute;
+	color: white;
+	font-weight: bold;
+	top: 30px;
+	left: 50px;
+}
+.shvili {
+	position: absolute;
+	color: white;
+	font-weight: bold;
+	top: 150px;
+	left: 250px;
+}
+
+
+
+
+
 .card {
 	display: inline-block;
 	position: relative;
@@ -67,4 +89,7 @@ footer {
 	background-color: gray;
 	margin: 30px;
 	width: 100%;
+}
+ul, p {
+	display: inline-block;
 }
