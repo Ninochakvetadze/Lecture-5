@@ -1,0 +1,70 @@
+header {
+	margin-left: 20px;
+	/*padding-left: 20px;*/
+	position: sticky;
+	width: 100%;
+}
+.logo {
+	font-size: 40px;
+	display: inline-block;
+	color: red;
+	font-weight: bold;
+	margin-right: 50px;
+	vertical-align: middle;
+}
+
+nav {
+	display: inline-block;
+	vertical-align: middle;
+}
+li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+/*li a {
+	color: black;
+}*/
+h1 {
+	font-weight: bold;
+	margin: 40px;
+	font-size: 24px;
+}
+.card {
+	display: inline-block;
+	position: relative;
+	width: 360px;
+	height: 350px;
+	margin-left: 40px;
+	margin-right: 39px;
+}
+.card2 {
+	position: absolute;
+	top: 50px;
+	left: 0px;
+	width: 281px;
+	height: 38px;	
+	text-align: left;
+}
+.clock, p {
+	display: inline-block;
+	vertical-align: middle;
+	font-size: 13px;
+	margin-top: 20px;
+}
+.left, .right {
+	display: inline-block;
+	position: relative;
+}
+.logo1 {
+	font-size: 13px;
+	font-weight: bold;
+	color: gray;
+}
+
+
+footer {
+	background-color: gray;
+	margin: 30px;
+	width: 100%;
+}
